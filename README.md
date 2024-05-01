@@ -1,4 +1,8 @@
-### Hi there 👋
+👋 Hi, Angelo here!
+💻 Languages: Javascript and Python
+📫 How to reach me: ivascu.angelo@gmail.com
+
+
 
 <!--
 **ivascu-angelo/ivascu-angelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
